@@ -1,0 +1,6 @@
+{
+  "name": "Sapphire",
+  "description": "Transform your camera cutout into an interactive dynamic notification island and live activity overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

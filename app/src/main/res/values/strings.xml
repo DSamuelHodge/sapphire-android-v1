@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sapphire</string>
+    <string name="accessibility_service_description">Sapphire utilizes the Accessibility Service solely to display the floating dynamic notification island overlay, manage touch passthrough, and enable quick notification multitasking around your camera cutout.</string>
+</resources>
